@@ -1,0 +1,27 @@
+{
+	"$schema": "./BreathPattern.schema.json",
+	"name": "Square Breath",
+	"length": 16.0,
+	"keyframes": [
+		{
+			"target": { "In": 1.0, "No": 0.0 },
+			"time": 0.0,
+			"transition": 0
+		},
+		{
+			"target": { "No": 1.0 },
+			"time": 0.25,
+			"transition": 0
+		},
+		{
+			"target": { "Out": 1.0, "No": 0.0 },
+			"time": 0.50,
+			"transition": 0
+		},
+		{
+			"target": { "No": 1.0 },
+			"time": 0.75,
+			"transition": 0
+		}
+	]
+}

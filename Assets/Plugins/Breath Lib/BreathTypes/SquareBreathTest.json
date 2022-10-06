@@ -1,0 +1,196 @@
+{
+	"$schema": "./BreathPattern.schema.json",
+	"name": "Square Breath Test",
+	"length": 16.0,
+	"keyframes": [
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 0,
+			"Volume": 0
+		},
+			"time": 0.0,
+			"transition": 0
+		},
+		{
+			"target": { "In": 1.0,
+			"No": 0,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 30,
+			"Volume":0.2
+		},
+			"time": 0.0625,
+			"transition": 0
+		},
+		{
+			"target": { "In": 1.0, 
+			"No": 0,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 60,
+			"Volume": 0.3 
+		},
+			"time": 0.125,
+			"transition": 0
+		},
+		{
+			"target": { "In": 1.0, 
+			"No": 0,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 90,
+			"Volume": 0.4 
+		},
+			"time": 0.1875,
+			"transition": 0
+		},
+		{
+			"target": {  "In": 1.0,
+			 "No": 0,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 120,
+			"Volume": 0.5
+		},
+			"time": 0.25,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 0,
+			"Volume": 0 
+		 },
+			"time": 0.3125,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 0,
+			"Volume": 0 
+		 },
+			"time": 0.375,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 0,
+			"Volume": 0 
+		 },
+			"time": 0.4375,
+			"transition": 0
+		},
+		{
+			"target": {  
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 0,
+			"Volume": 0 
+		},
+			"time": 0.5,
+			"transition": 0
+		},
+		{
+			"target": { "In": 0.0,
+			"No": 0, 
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 175,
+			"Volume": 0.6 
+		},
+			"time": 0.5625,
+			"transition": 0
+		},
+		{
+			"target": { "In": 0.0,
+			"No": 0, 
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 400,
+			"Volume": 0.7 
+		},
+			"time": 0.625,
+			"transition": 0
+		},
+		{
+			"target": { "In": 0.0,
+			"No": 0, 
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 500,
+			"Volume": 0.8 
+		},
+			"time": 0.6875,
+			"transition": 0
+		},
+		{
+			"target": { "In": 0.0,
+			 "No": 0,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch": 600,
+			"Volume": 1  
+		},
+			"time": 0.75,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch":  0,
+			"Volume": 0 
+		 },
+			"time": 0.8125,
+			"transition": 0
+		},
+		
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch":  0,
+			"Volume": 0 
+		 },
+			"time": 0.875,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch":  0,
+			"Volume": 0 
+		 },
+			"time": 0.9375,
+			"transition": 0
+		},
+		{
+			"target": { 
+			"No": 1,
+			"Nasal": 0,
+			"Mouth": 0,
+			"Pitch":  0,
+			"Volume": 0 
+		 },
+			"time": 1.0,
+			"transition": 0
+		}
+
+	]
+}
